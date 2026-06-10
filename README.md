@@ -71,15 +71,6 @@ Deploy on Vercel and add your project link here:
 ```
 https://your-project-name.vercel.app
 ```
-
-## 📸 Screenshot
-
-Add a screenshot of your application to the repository and reference it here:
-
-```md
-![Password Generator Screenshot](./screenshot.png)
-```
-
 ## 📦 Dependencies
 
 * react
